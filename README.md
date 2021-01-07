@@ -5,3 +5,15 @@
 ### Implementation
 - day 2
 	- 이것이 코딩테스트다 
+
+##rxJava
+- day 2
+	- Observer
+		1. Cold Observable, Hot Observable and Connectable
+		2. error
+		3. Empty, Never
+- day 3
+	- Observer
+		1. range
+		2. difer
+		3. callable
