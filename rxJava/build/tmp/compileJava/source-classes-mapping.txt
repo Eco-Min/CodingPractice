@@ -30,3 +30,9 @@ com/rxJava/Day4/Rx4_3_DisposableAndComposite.java
  com.rxJava.Day4.Rx4_3_DisposableAndComposite$2
 com/rxJava/Day4/Rx4_4_MapFilter.java
  com.rxJava.Day4.Rx4_4_MapFilter
+com/rxJava/Day5/Rx5_1_TakeSkipWhile.java
+ com.rxJava.Day5.Rx5_1_TakeSkipWhile
+com/rxJava/Day5/Rx_5_distinctDistinctUntilChanged.java
+ com.rxJava.Day5.Rx_5_distinctDistinctUntilChanged
+com/rxJava/Day5/Rx_5_DefaultSwitchIfEmpty.java
+ com.rxJava.Day5.Rx_5_DefaultSwitchIfEmpty
