@@ -26,3 +26,8 @@
 		1. interval
 		2. Single, Maybe, cmpletable
 		3. disposable
+- day5
+	- observer
+		1. take, skip, take & skipwhile
+		2. Default & SwitchIfEmpty
+		3. distinct, DistinctUntilChanged
