@@ -32,7 +32,12 @@
 		2. Default & SwitchIfEmpty
 		3. distinct, DistinctUntilChanged
 - day6
-	- oberverabl
+	- oberverable
 		1. Repeat Scan
 		2. 3Ways Sorted
 		3. Delay interval
+- day6
+	- oberverable
+		1. contains
+		2. errorHandling1
+		3. errorHandling2
