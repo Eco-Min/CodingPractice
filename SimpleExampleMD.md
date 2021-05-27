@@ -9,11 +9,19 @@ Paragraph
 ___
 <!-- Text Attributes -->
 This is the **bold** text and this is the *italic* text and let's do ~~strikethrough~~.
+<<<<<<< HEAD
+=======
+
+>>>>>>> dynamic
 <!-- Quote -->
 > Don't forget to code your dream.
 
 <!-- Bullet List -->
+<<<<<<< HEAD
 Fruits:
+=======
+Fruits :
+>>>>>>> dynamic
 
 * Apples
 * Lemon
@@ -39,6 +47,10 @@ Click [gogle](https://www.google.com)
 
 <!-- Table -->
 [Tables Generatr](https://www.tablesgenerator.com/markdown_tables)
+<<<<<<< HEAD
+=======
+
+>>>>>>> dynamic
 |Header|Description|about|
 |--:|:--|:--:|
 |Cell1|Cell2|Cell3|
