@@ -10,6 +10,10 @@ ___
 <!-- Text Attributes -->
 This is the **bold** text and this is the *italic* text and let's do ~~strikethrough~~.
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> dynamic
 =======
 
 >>>>>>> dynamic
@@ -18,7 +22,11 @@ This is the **bold** text and this is the *italic* text and let's do ~~strikethr
 
 <!-- Bullet List -->
 <<<<<<< HEAD
+<<<<<<< HEAD
 Fruits:
+=======
+Fruits :
+>>>>>>> dynamic
 =======
 Fruits :
 >>>>>>> dynamic
@@ -48,6 +56,10 @@ Click [gogle](https://www.google.com)
 <!-- Table -->
 [Tables Generatr](https://www.tablesgenerator.com/markdown_tables)
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> dynamic
 =======
 
 >>>>>>> dynamic
